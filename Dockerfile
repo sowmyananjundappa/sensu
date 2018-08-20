@@ -1,4 +1,4 @@
-FROM amazon:amazon7
+FROM amazonlinux:latest
 
 MAINTAINER Sowmya Nanjundappa
 
